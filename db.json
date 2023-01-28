@@ -1,12 +1,12 @@
 {
   "clientes": [
     {
-      "id": 1,
       "nombre": "Juan (Actualizado)",
       "empresa": "Codigo Con Juan",
       "email": "juan@juan.com",
       "telefono": "102013313",
-      "notas": "Nueva Nota"
+      "notas": "Nueva Notas",
+      "id": 1
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "empresa": "Codigo Con Juan",
       "email": "karen_nuevo@juan.com",
       "telefono": 138198313,
-      "notas": "Karen desea una REST API"     
+      "notas": "Karen desea una REST API"
     },
     {
       "id": 4,
@@ -36,7 +36,7 @@
       "empresa": "Codigo con Juan",
       "email": "correo@correo.com",
       "telefono": 10901,
-      "notas": "El Cliente desea un ecommerce"      
+      "notas": "El Cliente desea un ecommerce"
     }
   ]
 }
